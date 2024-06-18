@@ -29,7 +29,7 @@ This app presents a series of multiple-choice questions related to the binary nu
 
 2. Open the **index.html** file in your web browser.
 
-## 🎥 Demo
+## 🎥 Youtube Tutorial
 
 [Tutorial video Link](https://youtu.be/u9NFuoITzrs?si=4rp0KrVOJU9VLxL7) 
 
