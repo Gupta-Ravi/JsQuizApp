@@ -37,8 +37,6 @@ This app presents a series of multiple-choice questions related to the binary nu
 
 [Demo Link](https://gupta-ravi.github.io/JsQuizApp/)
 
-* **Note:**  Replace `your-username` with your actual GitHub username.
-
 ## ✨ Screenshots
 
 ![Quiz App Screenshot](s1.jpeg)
