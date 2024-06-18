@@ -33,8 +33,6 @@ This app presents a series of multiple-choice questions related to the binary nu
 
 [Tutorial video Link](https://youtu.be/u9NFuoITzrs?si=4rp0KrVOJU9VLxL7) 
 
-* **Note:** Replace `YOUR_YOUTUBE_VIDEO_ID` with the actual ID of your demo video on YouTube. 
-
 ## 🌐 Live Demo
 
 [Demo Link](https://gupta-ravi.github.io/JsQuizApp/)
