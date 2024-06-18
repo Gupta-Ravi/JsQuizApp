@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Quiz App</title>
+</head>
+
+<body>
+    <div class="main">
+        <div class="box">
+            <div class="question">
+                <h1 id="question">What are you doing with your life?</h1>
+            </div>
+            <div class="options">
+
+                <div class="row">
+                    <input class="opts" type="radio" name="quiz-option" value="a" id="option-1">
+                    <label for="option-1">dont know</label>
+                </div>
+
+                <div class="row">
+                    <input class="opts" type="radio" name="quiz-option" value="b" id="option-2">
+                    <label for="option-2">will never know</label>
+                </div>
+
+                <div class="row">
+                    <input class="opts" type="radio" name="quiz-option" value="c" id="option-3">
+                    <label for="option-3">god knows</label>
+                </div>
+
+                <div class="row">
+                    <input class="opts" type="radio" name="quiz-option" value="d" id="option-4">
+                    <label for="option-4">who knows</label>
+                </div>
+
+            </div>
+            <div class="btn">
+                <button onclick="submitQuiz()">Submit</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
